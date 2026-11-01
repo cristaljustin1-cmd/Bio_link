@@ -57,7 +57,7 @@ export const profile: Profile = {
     facebook: "https://www.facebook.com/Eldrige12",
     instagram: "https://instagram.com/yourusername",
     linkedin: "https://linkedin.com/in/yourusername",
-    email: "hello@example.com",
+    email: "cristal.justin1@gmail.com",
   },
   links: [
     {
@@ -87,7 +87,7 @@ export const profile: Profile = {
     {
       title: "Contact Information",
       description: "Get in touch for inquiries",
-      url: "mailto:hello@example.com",
+      url: "mailto:cristal.justin1@gmail.com",
       icon: "mail",
     },
     {
